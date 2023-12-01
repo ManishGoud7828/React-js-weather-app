@@ -2,7 +2,6 @@
 Awesome Weather Application
 
 Probably the best, free and open source weather-app out there! :)
-
 A react application built with modern technologies
 Application Features.
 Can track the atmospheric condition of any country or city.
